@@ -40,6 +40,7 @@ namespace ListBoxApplication1
             Console.Clear();
             
             int hak = 0;
+// FIX HERE
             for (int i = 0; i < isim.Length; i++)
             {
             a3:
